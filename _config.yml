@@ -1,0 +1,8 @@
+title: YU81.GitHub.io
+description: 
+google_analytics: UA-67994089-3
+show_downloads: true
+theme: jekyll-theme-hacker
+
+gems:
+  - jekyll-mentions
